@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: tfgyhujnmjn
   version: '1.0'
+  description: hgfygbuh
 servers:
   - url: 'http://localhost:3000'
 paths:
